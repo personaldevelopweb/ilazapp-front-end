@@ -1,2 +1,2 @@
-# ilazapp-front-end
-ipp plazapp
+front-end
+
